@@ -1,0 +1,21 @@
+p_number,planned_start_date,configuration_item,short_description,description,affected_customers,state,completion_code
+PRJ-2600,2025-11-01,CFM56-7B,TCAS upgrade,Validate ETOPS 180 capability per FAA AC 120-42B,Charter Ops,Scheduled,C15
+PRJ-2601,2025-11-02,GE90-115B,TCAS upgrade,Calibrate pitot-static system for RVSM per MMEL 34-10,Interline Partners,Scheduled,C01
+PRJ-2602,2025-11-03,CFM56-7B,AD compliance check,Validate ETOPS 180 capability per FAA AC 120-42B,,Scheduled,C07
+PRJ-2603,2025-11-04,PW4000,AD compliance check,Perform SB 737-28-1125 to comply with AD 2023-01-05,Interline Partners,Scheduled,C15
+PRJ-2604,2025-11-05,CFM56-7B,RVSM calibration,Calibrate pitot-static system for RVSM per MMEL 34-10,,In Progress,C99
+PRJ-2605,2025-11-06,V2500-A5,TCAS upgrade,Perform SB 737-28-1125 to comply with AD 2023-01-05,Charter Ops,Scheduled,C99
+PRJ-2606,2025-11-07,V2500-A5,ETOPS validation,Validate ETOPS 180 capability per FAA AC 120-42B,Cargo Division,Completed,C99
+PRJ-2607,2025-11-08,V2500-A5,TCAS upgrade,Perform SB 737-28-1125 to comply with AD 2023-01-05,Charter Ops,Completed,C99
+PRJ-2608,2025-11-09,V2500-A5,ETOPS validation,Calibrate pitot-static system for RVSM per MMEL 34-10,Interline Partners,Completed,C07
+PRJ-2609,2025-11-10,GE90-115B,RVSM calibration,Perform SB 737-28-1125 to comply with AD 2023-01-05,Charter Ops,Deferred,C01
+PRJ-2610,2025-11-11,PW4000,TCAS upgrade,Upgrade TCAS to version 7.1 per DO-185B,,In Progress,C99
+PRJ-2611,2025-11-12,PW4000,ETOPS validation,Validate ETOPS 180 capability per FAA AC 120-42B,Charter Ops,Deferred,C99
+PRJ-2612,2025-11-13,GE90-115B,TCAS upgrade,Upgrade TCAS to version 7.1 per DO-185B,,Scheduled,C01
+PRJ-2613,2025-11-14,GE90-115B,TCAS upgrade,Calibrate pitot-static system for RVSM per MMEL 34-10,Cargo Division,Completed,C01
+PRJ-2614,2025-11-15,V2500-A5,AD compliance check,Upgrade TCAS to version 7.1 per DO-185B,Cargo Division,In Progress,C07
+PRJ-2615,2025-11-16,PW4000,ETOPS validation,Upgrade TCAS to version 7.1 per DO-185B,Charter Ops,Scheduled,C07
+PRJ-2616,2025-11-17,PW4000,TCAS upgrade,Calibrate pitot-static system for RVSM per MMEL 34-10,,Scheduled,C15
+PRJ-2617,2025-11-18,V2500-A5,TCAS upgrade,Calibrate pitot-static system for RVSM per MMEL 34-10,Interline Partners,Deferred,C01
+PRJ-2618,2025-11-19,CFM56-7B,ETOPS validation,Validate ETOPS 180 capability per FAA AC 120-42B,Charter Ops,Completed,C99
+PRJ-2619,2025-11-20,PW4000,ETOPS validation,Upgrade TCAS to version 7.1 per DO-185B,Interline Partners,Completed,C07

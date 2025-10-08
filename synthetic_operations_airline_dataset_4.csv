@@ -1,0 +1,21 @@
+p_number,planned_start_date,configuration_item,short_description,description,affected_customers,state,completion_code
+PRJ-2400,2025-11-01,V2500-A5,TCAS upgrade,Calibrate pitot-static system for RVSM per MMEL 34-10,Charter Ops,Completed,C01
+PRJ-2401,2025-11-02,V2500-A5,ETOPS validation,Perform SB 737-28-1125 to comply with AD 2023-01-05,,In Progress,C15
+PRJ-2402,2025-11-03,GE90-115B,TCAS upgrade,Validate ETOPS 180 capability per FAA AC 120-42B,Charter Ops,Completed,C99
+PRJ-2403,2025-11-04,V2500-A5,RVSM calibration,Calibrate pitot-static system for RVSM per MMEL 34-10,Cargo Division,Completed,C01
+PRJ-2404,2025-11-05,CFM56-7B,AD compliance check,Upgrade TCAS to version 7.1 per DO-185B,,Scheduled,C15
+PRJ-2405,2025-11-06,PW4000,RVSM calibration,Perform SB 737-28-1125 to comply with AD 2023-01-05,Interline Partners,Deferred,C01
+PRJ-2406,2025-11-07,GE90-115B,RVSM calibration,Validate ETOPS 180 capability per FAA AC 120-42B,Cargo Division,Scheduled,C01
+PRJ-2407,2025-11-08,GE90-115B,ETOPS validation,Upgrade TCAS to version 7.1 per DO-185B,Interline Partners,Scheduled,C07
+PRJ-2408,2025-11-09,V2500-A5,AD compliance check,Perform SB 737-28-1125 to comply with AD 2023-01-05,Cargo Division,Completed,C99
+PRJ-2409,2025-11-10,V2500-A5,AD compliance check,Calibrate pitot-static system for RVSM per MMEL 34-10,Charter Ops,Completed,C15
+PRJ-2410,2025-11-11,V2500-A5,TCAS upgrade,Calibrate pitot-static system for RVSM per MMEL 34-10,Cargo Division,Scheduled,C15
+PRJ-2411,2025-11-12,PW4000,RVSM calibration,Perform SB 737-28-1125 to comply with AD 2023-01-05,Cargo Division,Deferred,C01
+PRJ-2412,2025-11-13,V2500-A5,TCAS upgrade,Upgrade TCAS to version 7.1 per DO-185B,Charter Ops,Scheduled,C01
+PRJ-2413,2025-11-14,CFM56-7B,RVSM calibration,Upgrade TCAS to version 7.1 per DO-185B,Charter Ops,Deferred,C07
+PRJ-2414,2025-11-15,V2500-A5,ETOPS validation,Perform SB 737-28-1125 to comply with AD 2023-01-05,Charter Ops,Scheduled,C15
+PRJ-2415,2025-11-16,V2500-A5,AD compliance check,Perform SB 737-28-1125 to comply with AD 2023-01-05,Interline Partners,Scheduled,C01
+PRJ-2416,2025-11-17,V2500-A5,TCAS upgrade,Upgrade TCAS to version 7.1 per DO-185B,Interline Partners,In Progress,C07
+PRJ-2417,2025-11-18,GE90-115B,RVSM calibration,Upgrade TCAS to version 7.1 per DO-185B,Cargo Division,Deferred,C07
+PRJ-2418,2025-11-19,GE90-115B,TCAS upgrade,Perform SB 737-28-1125 to comply with AD 2023-01-05,Cargo Division,Completed,C01
+PRJ-2419,2025-11-20,GE90-115B,ETOPS validation,Upgrade TCAS to version 7.1 per DO-185B,Interline Partners,In Progress,C99

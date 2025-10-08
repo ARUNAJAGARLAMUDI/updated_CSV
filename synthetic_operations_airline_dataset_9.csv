@@ -1,0 +1,21 @@
+p_number,planned_start_date,configuration_item,short_description,description,affected_customers,state,completion_code
+PRJ-2900,2025-11-01,PW4000,ETOPS validation,Upgrade TCAS to version 7.1 per DO-185B,Interline Partners,Deferred,C99
+PRJ-2901,2025-11-02,V2500-A5,AD compliance check,Calibrate pitot-static system for RVSM per MMEL 34-10,Interline Partners,Deferred,C15
+PRJ-2902,2025-11-03,V2500-A5,TCAS upgrade,Perform SB 737-28-1125 to comply with AD 2023-01-05,,Completed,C15
+PRJ-2903,2025-11-04,GE90-115B,ETOPS validation,Perform SB 737-28-1125 to comply with AD 2023-01-05,Charter Ops,Deferred,C15
+PRJ-2904,2025-11-05,V2500-A5,ETOPS validation,Calibrate pitot-static system for RVSM per MMEL 34-10,Charter Ops,In Progress,C99
+PRJ-2905,2025-11-06,PW4000,ETOPS validation,Calibrate pitot-static system for RVSM per MMEL 34-10,Cargo Division,Deferred,C99
+PRJ-2906,2025-11-07,CFM56-7B,AD compliance check,Perform SB 737-28-1125 to comply with AD 2023-01-05,Cargo Division,Scheduled,C01
+PRJ-2907,2025-11-08,CFM56-7B,ETOPS validation,Calibrate pitot-static system for RVSM per MMEL 34-10,Charter Ops,Completed,C01
+PRJ-2908,2025-11-09,CFM56-7B,ETOPS validation,Perform SB 737-28-1125 to comply with AD 2023-01-05,Cargo Division,Completed,C01
+PRJ-2909,2025-11-10,V2500-A5,ETOPS validation,Calibrate pitot-static system for RVSM per MMEL 34-10,Cargo Division,Deferred,C07
+PRJ-2910,2025-11-11,V2500-A5,ETOPS validation,Validate ETOPS 180 capability per FAA AC 120-42B,,Completed,C01
+PRJ-2911,2025-11-12,GE90-115B,ETOPS validation,Calibrate pitot-static system for RVSM per MMEL 34-10,,Deferred,C07
+PRJ-2912,2025-11-13,GE90-115B,ETOPS validation,Upgrade TCAS to version 7.1 per DO-185B,Charter Ops,In Progress,C99
+PRJ-2913,2025-11-14,GE90-115B,AD compliance check,Validate ETOPS 180 capability per FAA AC 120-42B,Interline Partners,Completed,C15
+PRJ-2914,2025-11-15,PW4000,AD compliance check,Validate ETOPS 180 capability per FAA AC 120-42B,Charter Ops,Deferred,C07
+PRJ-2915,2025-11-16,CFM56-7B,RVSM calibration,Calibrate pitot-static system for RVSM per MMEL 34-10,,Completed,C99
+PRJ-2916,2025-11-17,V2500-A5,TCAS upgrade,Perform SB 737-28-1125 to comply with AD 2023-01-05,Interline Partners,Completed,C99
+PRJ-2917,2025-11-18,PW4000,RVSM calibration,Perform SB 737-28-1125 to comply with AD 2023-01-05,Interline Partners,Scheduled,C99
+PRJ-2918,2025-11-19,CFM56-7B,ETOPS validation,Perform SB 737-28-1125 to comply with AD 2023-01-05,,Deferred,C15
+PRJ-2919,2025-11-20,CFM56-7B,AD compliance check,Calibrate pitot-static system for RVSM per MMEL 34-10,Charter Ops,In Progress,C01
